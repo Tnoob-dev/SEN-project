@@ -1,0 +1,82 @@
+{
+    "sen_info": {
+        "main_info": {
+            "_comentario": "Las fechas deben expresarse con guiones",
+            "fecha": "15-07-2024",
+            "dia": "Lunes",
+            "url": "http://www.cubadebate.cu/noticias/2024/07/15/une-pronostica-afectacion-de-480-mw-durante-pico-nocturno-de-este-lunes/"
+        },
+        "_comentario": "Toda esta informacion se expresa en MW",
+        "estimacion": {
+            "horario": "nocturno",
+            "disponibilidad": 2690,
+            "demanda_max": 3100,
+            "deficit": 410,
+            "pronostico": {
+                "afectacion": 480
+            }
+        },
+        "info_horarios": {
+            "ma\u00c3\u00b1ana": {
+                "disponibilidad": 2570,
+                "demanda": 2350,
+                "totalidad": true
+            },
+            "mediodia": {
+                "pronostico": {
+                    "afectacion": 200
+                }
+            }
+        },
+        "termoelectricas": {
+            "_comentario": "Esto quiere decir: Limitaciones en la generacion termica",
+            "lim_gen_term": 431,
+            "fuera": {
+                "averias": [
+                    {
+                        "nombre": "Unidad 3",
+                        "CTE": "Rente"
+                    },
+                    {
+                        "nombre": "Unidad 6",
+                        "CTE": "Rente"
+                    },
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    }
+                ],
+                "mantenimiento": [
+                    {
+                        "nombre": "Unidad 1",
+                        "CTE": "Santa Cruz"
+                    }
+                ],
+                "no_servicio": [
+                    {
+                        "cantidad": 47,
+                        "razon": "falta de combustible",
+                        "mw_afectados": 309
+                    }
+                ]
+            }
+        },
+        "pico": {
+            "estimacion": {
+                "desc": "se estima la entrada de motores de generación distribuida",
+                "razon": "se encuentran fuera por combustible",
+                "cantidad_mw": 120
+            }
+        },
+        "max_afect_dia": {
+            "cantidad_mw": 616,
+            "hora": "21:00",
+            "desc": "coincidente con la hora pico, superior a la planificada por la no entrada de la unidad 6 de la CTE Nuevitas."
+        },
+        "dia_anterior": {
+            "desc": "se afectó el servicio por déficit de capacidad de generación en el SEN",
+            "horas": 24,
+            "hora_rest": "01:58"
+        }
+    }
+}

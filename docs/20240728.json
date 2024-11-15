@@ -1,0 +1,64 @@
+{
+    "sen_info": {
+        "main_info": {
+            "_comentario": "Las fechas deben expresarse con guiones",
+            "fecha": "",
+            "dia": "",
+            "url": ""
+        },
+        "_comentario": "Toda esta informacion se expresa en MW",
+        "estimacion": {
+            "horario": "",
+            "disponibilidad": 0,
+            "demanda_max": 0,
+            "deficit": 0,
+            "pronostico": {
+                "afectacion": 0
+            }
+        },
+        "info_horarios": {
+            "ma\u00c3\u00b1ana": {
+                "disponibilidad": 0,
+                "demanda": 0,
+                "totalidad": true
+            },
+            "mediodia": {
+                "pronostico": {
+                    "afectacion": 0
+                }
+            }
+        },
+        "termoelectricas": {
+            "_comentario": "Esto quiere decir: Limitaciones en la generacion termica",
+            "lim_gen_term": 0,
+            "fuera": {
+                "averias": [
+                    {}
+                ],
+                "mantenimiento": [
+                    {}
+                ],
+                "no_servicio": [
+                    {}
+                ]
+            }
+        },
+        "pico": {
+            "estimacion": {
+                "desc": "",
+                "razon": "",
+                "cantidad_mw": 0
+            }
+        },
+        "max_afect_dia": {
+            "cantidad_mw": 0,
+            "hora": "",
+            "desc": ""
+        },
+        "dia_anterior": {
+            "desc": "",
+            "horas": 0,
+            "hora_rest": ""
+        }
+    }
+}
