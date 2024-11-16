@@ -1,9 +1,10 @@
 Titulo: UNE prevé afectación de 540 MW durante el horario pico nocturno de este martes
 
 La Unión Eléctrica informó este martes que “en el día de ayer (lunes 15 de julio) se afectó el servicio por déficit de capacidad de generación en el Sistema Eléctrico Nacional (SEN) desde las 10:11 horas de la mañana hasta las 01:34 horas de la madrugada de hoy.
-
 De acuerdo con la fuente, la máxima afectación en el día fue 494 MW a las 22:00 horas, coincidente con la hora pico.
-
 La disponibilidad del SEN a las 07:00 horas de este martes fue de 2500 MW, la demanda 2320 MW, con todo el SEN con servicio, en el horario del mediodía se pronostican una máxima afectación de 200 MW.
-
 Según trascendió, se encuentran fuera por avería las unidades 3 y 6 de la CTE René y la unidad 2 de la CTE Felton. Asimismo, en mantenimiento permanece la unidad 1 de la CTE Santa Cruz.
+Las limitaciones en la generación térmica son de 450 MW.
+Se encuentran fuera de servicio por combustible 38 centrales de generación distribuida, para un total de 216 MW afectados por este concepto.
+Para el pico se estima la entrada de motores de la Generación Distribuida que se encuentran fuera de servicio por déficit de combustible, con 80 MW.
+Con este pronóstico, se estima para la hora pico una disponibilidad de 2580 MW y una demanda máxima de 3050 MW, para un déficit de 470 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 540 MW en este horario, precisó la UNE.

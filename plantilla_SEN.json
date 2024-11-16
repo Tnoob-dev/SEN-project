@@ -32,9 +32,25 @@
             "_comentario": "Esto quiere decir: Limitaciones en la generacion termica",
             "lim_gen_term": 0,
             "fuera": {
-                "averias": [{}],
-                "mantenimiento":[{}],
-                "no_servicio": [{}]
+                "averias": [
+                    {
+                        "nombre": "Unidad",
+                        "CTE": ""
+                    }
+                ],
+                "mantenimiento":[
+                    {
+                        "nombre": "Unidad",
+                        "CTE": ""
+                    }
+                ],
+                "no_servicio": [
+                    {
+                        "cantidad": 0,
+                        "razon": "",
+                        "mw_afectados": 0
+                    }
+                ]
             }
         },
         "pico": {

@@ -1,19 +1,11 @@
 Titulo: UNE pronostica afectación de 480 MW durante pico nocturno de este lunes 
 
 La Unión Eléctrica estima para la hora pico nocturna de este lunes una disponibilidad de 2 690 MW y una demanda máxima de 3 100 MW, para un déficit de 410 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 480 MW en este horario.
-
 La disponibilidad del SEN a las 7 a.m. fue de 2 570 MW y la demanda, 2 350 MW, con todo el SEN con servicio.
-
 Durante el mediodía se pronostica una afectación máxima de 200 MW.
-
 Se encuentran fuera por averías las unidades 3 y 6 de la CTE Renté y la unidad 2 de la CTE Felton. Está en mantenimiento la unidad 1 de la CTE Santa Cruz.
-
-Las limitaciones en la generación térmica son de 431 MW. 
-
-Se encuentran fuera de servicio por combustible 47 centrales de generación distribuida, para un total de 309 MW afectados por este concepto. 
-
+Las limitaciones en la generación térmica son de 431 MW.
+Se encuentran fuera de servicio por combustible 47 centrales de generación distribuida, para un total de 309 MW afectados por este concepto.
 Para el pico se estima la entrada de motores de generación distribuida que se encuentran fuera por combustible con 120 MW.
-
 En el día de ayer se afectó el servicio por déficit de capacidad de generación en el SEN las 24 horas del día. La afectación se restableció a las 01:58 a.m. de este lunes.
-
 La máxima afectación en el día fue 616 MW a las 9 p.m., coincidente con la hora pico, superior a la planificada por la no entrada de la unidad 6 de la CTE Nuevitas.

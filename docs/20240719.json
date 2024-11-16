@@ -33,13 +33,23 @@
             "lim_gen_term": 0,
             "fuera": {
                 "averias": [
-                    {}
+                    {
+                        "nombre": "Unidad",
+                        "CTE": ""
+                    }
                 ],
                 "mantenimiento": [
-                    {}
+                    {
+                        "nombre": "Unidad",
+                        "CTE": ""
+                    }
                 ],
                 "no_servicio": [
-                    {}
+                    {
+                        "cantidad": 0,
+                        "razon": "",
+                        "mw_afectados": 0
+                    }
                 ]
             }
         },
