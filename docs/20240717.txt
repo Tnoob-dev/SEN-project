@@ -1,0 +1,11 @@
+Titulo: UNE prevé afectación de 490 MW durante el horario pico nocturno de este miércoles
+
+La disponibilidad del SEN a las 07:00 horas es de 2400 MW, la demanda 2320 MW, con todo el SEN con servicio, en el horario del mediodía se pronostican una máxima afectacion de 200 MW.
+
+Se encuentran fuera por avería las unidades 3 y 6 de la CTE Rente y la unidad 2 de la CTE Felton. Se encuentra en mantenimiento la unidad 1 de la CTE Santa Cruz.
+Las limitaciones en la generación térmica son de 496 MW.
+Se encuentran fuera de servicio por combustible 51 centrales de generación distribuida, para un total de 355 MW afectados por este concepto.
+Para el pico se estima la entrada de motores de la Generación Distribuida que se encuentran fuera por combustible con 100 MW y la entrada de motores de la generación distribuida que están en espera de mantenimiento y se autoriza su uso con 80 MW.
+Con este pronóstico, se estima para la hora pico una disponibilidad de 2580 MW y una demanda máxima de 3000 MW, para un déficit de 420 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 490 MW en este horario.
+En el día de ayer se afectó el servicio por déficit de capacidad de generación en el SEN desde las 16:10 horas de la tarde hasta las 02:27 horas de la madrugada de hoy.
+La máxima afectación en el día fue 395 MW a las 22:30 horas, no coincidente con la hora pico.

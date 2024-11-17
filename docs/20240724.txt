@@ -1,0 +1,9 @@
+Titulo: UNE prevé afectación de 400 MW en horario pico este miércoles
+
+Este martes fue afectado el servicio por déficit de capacidad de generación durante las 24 horas del día. La afectación fue restablecida a las 01:43 horas de la madrugada de este miércoles.
+La máxima afectación en el día fue de 422 MW a las 21:40 horas, coincidente con la hora pico.
+En su parte diario, la UNE informó que la disponibilidad del SEN a las 07:00 horas de este miércoles era de 2 520 MW y la demanda, de 2 370 MW, con todo el sistema con servicio. En el horario del mediodía se estima una afectación máxima de 250 MW.
+Están fuera por avería la unidad 3 de la CTE Rente y la unidad 2 de la CTE Felton; en mantenimiento, la unidad 1 de la CTE Santa Cruz.
+Las limitaciones en la generación térmica son de 535 MW. Están fuera de servicio por déficit de combustible 46 centrales de generación distribuida, con 326 MW afectados por ese concepto.
+Para el pico se estima la entrada de motores de la generación distribuida que están fuera por déficit de combustible, con 50 MW; motores de generación distribuida que están a la espera de mantenimiento y cuyo uso se autoriza, con 90 MW, y la patana de Santiago de Cuba, con 60 MW.
+Se prevé para la hora pico una disponibilidad de 2 720 MW y una demanda máxima de 3 050 MW, para un déficit de 330 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 400 MW en este horario.

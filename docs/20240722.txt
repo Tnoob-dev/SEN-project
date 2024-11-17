@@ -1,0 +1,11 @@
+Titulo: Unión Eléctrica prevé afectación de 390 MW para horario pico de este lunes
+
+La unión Eléctrica estima para la hora pico de este lunes una disponibilidad de 2570 MW y una demanda máxima de 2900 MW, para un déficit de 320 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 390 MW en este horario.
+
+En el día de ayer se afectó el servicio por déficit de capacidad de generación en el SEN desde las 11:04 horas de la mañana hasta las 13:04 horas de la tarde y desde las 14:51 horas de tarde hasta las 00:57 horas de la madrugada de este lunes.
+La máxima afectación en la jornada fue de 381 MW a las 21:00 horas, no coincidente con la hora pico.
+La disponibilidad del SEN a las 07:00 horas era de 2390 MW, la demanda 2230 MW, con todo el sistema con servicio, en el horario del mediodía se operará con bajos niveles de reserva por lo que pudieran ocurrir afectaciones al servicio.
+Se encuentran fuera por avería la unidad 4 de Energas Varadero, la unidad 6 de la CTE Rente y la unidad 2 de la CTE Felton. Se encuentra en mantenimiento la unidad 1 de la CTE Santa Cruz.
+Las limitaciones en la generación térmica son de 512 MW.
+Están fuera de servicio por combustible 37 centrales de generación distribuida, para un total de 207 MW afectados por este concepto.
+Para el pico se estima la entrada de motores de la generación distribuida que se encuentran fuera por combustible con 50 MW, la entrada de los motores de generación distribuida que están en espera de mantenimiento y se autoriza su uso con 80 MW y la entrada de la Patana de Santiago con 60 MW.

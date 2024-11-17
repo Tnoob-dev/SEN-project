@@ -1,0 +1,11 @@
+Titulo: Unión Eléctrica prevé déficit de 582 MW en horario pico nocturno de este martes
+
+La Unión Eléctrica prevé un déficit de 582 MW en horario pico nocturno de este martes, mientras que la afectación para el horario del mediodía alcanza los 300 MW, informó la empresa en su parte habitual.
+En el día de ayer se afectó el servicio por déficit de capacidad de generación en el SEN desde las 09:09 horas de la mañana y se ha mantenido durante la madrugada de hoy.
+La máxima afectación en el día fue 708 MW a las 21:00 horas, coincidente con la hora pico, mayor que lo planificado por demanda superior al pronóstico, no entrada de la patana de Santiago de Cuba y falta de combustible en las Patana de Mariel y en la central fuel de Mariel.
+La disponibilidad del SEN a las 07:00 horas es de 2 380 MW, la demanda 2 420 MW, con 91 MW afectados por déficit de capacidad de generación. En el horario del mediodía se estima una afectación máxima de 300 MW.
+Se encuentran fuera por avería la unidad 2 de la CTE Santa Cruz, la unidad 6 de la CTE Rente y la unidad 2 de la CTE Felton. Se encuentra en mantenimiento la unidad 1 de la CTE Santa Cruz.
+Las limitaciones en la generación térmica son de 460 MW.
+Se encuentran fuera de servicio por combustible 45 centrales de generación distribuida, para un total de 315 MW afectados por este concepto.
+Para el pico se estima la entrada de motores de la Generación Distribuida que se encuentran fuera por combustible con 50 MW, la entrada de la unidad 6 de la CTE Renté con 60 MW, el completamiento de la unidad 3 de la CTE Renté con 30 MW, la entrada de 2 motores de la Patana de Mariel con 34 MW y la entrada de 2 motores del fuel de Mariel con 34 MW.
+Se estima para la hora pico una disponibilidad de 2 588 MW y una demanda máxima de 3 100 MW, para un déficit de 512 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 582 MW en este horario.
