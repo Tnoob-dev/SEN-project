@@ -54,11 +54,13 @@
             }
         },
         "pico": {
-            "estimacion": {
-                "desc": "",
-                "razon": "",
-                "cantidad_mw": 0
-            }
+            "estimacion": [
+                {
+                    "desc": "",
+                    "razon": "",
+                    "cantidad_mw": 0
+                }
+            ]
         },
         "max_afect_dia": {
             "cantidad_mw": 0,

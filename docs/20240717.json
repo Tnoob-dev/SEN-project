@@ -2,73 +2,88 @@
     "sen_info": {
         "main_info": {
             "_comentario": "Las fechas deben expresarse con guiones",
-            "fecha": "",
-            "dia": "",
-            "url": ""
+            "fecha": "17-07-2024",
+            "dia": "Miercoles",
+            "url": "http://www.cubadebate.cu/noticias/2024/07/17/une-preve-afectacion-de-490-mw-durante-el-horario-pico-nocturno-de-este-miercoles/"
         },
         "_comentario": "Toda esta informacion se expresa en MW",
         "estimacion": {
-            "horario": "",
-            "disponibilidad": 0,
-            "demanda_max": 0,
-            "deficit": 0,
+            "horario": "pico",
+            "disponibilidad": 2580,
+            "demanda_max": 3000,
+            "deficit": 420,
             "pronostico": {
-                "afectacion": 0
+                "afectacion": 490
             }
         },
         "info_horarios": {
             "ma\u00c3\u00b1ana": {
-                "disponibilidad": 0,
-                "demanda": 0,
+                "disponibilidad": 2400,
+                "demanda": 2320,
                 "totalidad": true
             },
             "mediodia": {
                 "pronostico": {
-                    "afectacion": 0
+                    "afectacion": 200
                 }
             }
         },
         "termoelectricas": {
             "_comentario": "Esto quiere decir: Limitaciones en la generacion termica",
-            "lim_gen_term": 0,
+            "lim_gen_term": 496,
             "fuera": {
                 "averias": [
                     {
-                        "nombre": "Unidad",
-                        "CTE": ""
+                        "nombre": "Unidad 3",
+                        "CTE": "Rente"
+                    },
+                    {
+                        "nombre": "Unidad 6",
+                        "CTE": "Rente"
+                    },
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
                     }
                 ],
                 "mantenimiento": [
                     {
-                        "nombre": "Unidad",
-                        "CTE": ""
+                        "nombre": "Unidad 1",
+                        "CTE": "Santa Cruz"
                     }
                 ],
                 "no_servicio": [
                     {
-                        "cantidad": 0,
-                        "razon": "",
-                        "mw_afectados": 0
+                        "cantidad": 51,
+                        "razon": "Deficit de combustible",
+                        "mw_afectados": 355
                     }
                 ]
             }
         },
         "pico": {
-            "estimacion": {
-                "desc": "",
-                "razon": "",
-                "cantidad_mw": 0
-            }
+            "estimacion": [
+                {
+                    "desc": "La entrada de motores de la Generacion Distribuida",
+                    "razon": "Se encuentran fuera por combusitble",
+                    "cantidad_mw": 100
+                },
+                {
+                    "desc": "La entrada de motores de la Generacion Distribuida",
+                    "razon": "Estan en espera de mantenimiento",
+                    "cantidad_mw": 80
+                }
+            ]
         },
         "max_afect_dia": {
-            "cantidad_mw": 0,
-            "hora": "",
-            "desc": ""
+            "cantidad_mw": 395,
+            "hora": "22:30",
+            "desc": "No coincidente con la hora pico"
         },
         "dia_anterior": {
-            "desc": "",
-            "horas": 0,
-            "hora_rest": ""
+            "desc": "Se afecto el servicio por deficit de capacidad de generacion en el SEN",
+            "horas": 10,
+            "hora_rest": "02:27"
         }
     }
 }

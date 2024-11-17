@@ -8,7 +8,7 @@
         },
         "_comentario": "Toda esta informacion se expresa en MW",
         "estimacion": {
-            "horario": "hora pico",
+            "horario": "pico",
             "disponibilidad": 2580,
             "demanda_max": 3050,
             "deficit": 470,
@@ -62,11 +62,13 @@
             }
         },
         "pico": {
-            "estimacion": {
-                "desc": "entrada de motores de la Generacion Distribuida que se encuentran fuera de servicio",
-                "razon": "deficit de combustible",
-                "cantidad_mw": 80
-            }
+            "estimacion": [
+                {
+                    "desc": "La entrada de motores de la Generacion Distribuida que se encuentran fuera de servicio",
+                    "razon": "deficit de combustible",
+                    "cantidad_mw": 80
+                }
+            ]
         },
         "max_afect_dia": {
             "cantidad_mw": 494,

@@ -1,0 +1,10 @@
+Titulo: Situación del Sistema Eléctrico para el 25 de julio de 2024.
+
+En el día de ayer se afectó el servicio por déficit de capacidad de generación desde las 09:04 am hasta las 03:08 horas de la madrugada de hoy, con una duración de 18 horas con 4 minutos.
+La máxima afectación en el día fue 611 MW a las 20:30 horas.
+La disponibilidad del SEN a las 07:00 horas es de 2400 MW, la demanda 2370 MW, con todo el sistema con servicio, en el horario del mediodía se estima una afectacion máxima de 300 MW.
+Se encuentran fuera por avería La unidad 2 de la CTE Lidio Ramón Pérez (Felton), la unidad 3 de la CTE Renté y la unidad 5 de la CTE Mariel. Se encuentra en mantenimiento la unidad 1 de la CTE Santa Cruz.
+Las limitaciones en la generación térmica son de 451 MW.
+Se encuentran fuera de servicio por combustible 52 centrales de generación distribuida, para un total de 380 MW afectados por este concepto.
+Para el pico se estima la entrada de motores de generación distribuida que están en espera de mantenimiento y se autoriza su uso con 55 MW. La entrada de la patana de Santiago con 70 MW. La entrada de la unidad 3 de la CTE Renté con 70 MW. La entrada de la unidad 5 de la CTE Mariel con 60 MW.
+Se estima para la hora pico una disponibilidad de 2655 MW y una demanda máxima de 3080 MW, para un déficit de 425 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 495 MW en este horario.

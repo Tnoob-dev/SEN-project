@@ -2,73 +2,98 @@
     "sen_info": {
         "main_info": {
             "_comentario": "Las fechas deben expresarse con guiones",
-            "fecha": "",
-            "dia": "",
-            "url": ""
+            "fecha": "25-07-2024",
+            "dia": "Jueves",
+            "url": "https://www.minem.gob.cu/es/noticias/situacion-del-sen/situacion-del-sistema-electrico-para-el-25-de-julio-de-2024"
         },
         "_comentario": "Toda esta informacion se expresa en MW",
         "estimacion": {
-            "horario": "",
-            "disponibilidad": 0,
-            "demanda_max": 0,
-            "deficit": 0,
+            "horario": "pico",
+            "disponibilidad": 2655,
+            "demanda_max": 3080,
+            "deficit": 425,
             "pronostico": {
-                "afectacion": 0
+                "afectacion": 495
             }
         },
         "info_horarios": {
             "ma\u00c3\u00b1ana": {
-                "disponibilidad": 0,
-                "demanda": 0,
+                "disponibilidad": 2400,
+                "demanda": 2370,
                 "totalidad": true
             },
             "mediodia": {
                 "pronostico": {
-                    "afectacion": 0
+                    "afectacion": 300
                 }
             }
         },
         "termoelectricas": {
             "_comentario": "Esto quiere decir: Limitaciones en la generacion termica",
-            "lim_gen_term": 0,
+            "lim_gen_term": 451,
             "fuera": {
                 "averias": [
                     {
-                        "nombre": "Unidad",
-                        "CTE": ""
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    },
+                    {
+                        "nombre": "Unidad 3",
+                        "CTE": "Rente"
+                    },
+                    {
+                        "nombre": "Unidad 5",
+                        "CTE": "Mariel"
                     }
                 ],
                 "mantenimiento": [
                     {
-                        "nombre": "Unidad",
-                        "CTE": ""
+                        "nombre": "Unidad 1",
+                        "CTE": "Santa Cruz"
                     }
                 ],
                 "no_servicio": [
                     {
-                        "cantidad": 0,
-                        "razon": "",
-                        "mw_afectados": 0
+                        "cantidad": 52,
+                        "razon": "Deficit de combustible",
+                        "mw_afectados": 380
                     }
                 ]
             }
         },
         "pico": {
-            "estimacion": {
-                "desc": "",
-                "razon": "",
-                "cantidad_mw": 0
-            }
+            "estimacion": [
+                {
+                    "desc": "La entrada de motores de la generacion distribuida",
+                    "razon": "Espera de mantenimiento",
+                    "cantidad_mw": 55
+                },
+                {
+                    "desc": "La entrada de la Patana de Santiago de Cuba",
+                    "razon": "En espera",
+                    "cantidad_mw": 70
+                },
+                {
+                    "desc": "la entrada de la Unidad 3 de la CTE Rente",
+                    "razon": "En espera",
+                    "cantidad_mw": 70
+                },
+                {
+                    "desc": "La entrada de la Unidad 5 de la CTE Mariel",
+                    "razon": "En espera",
+                    "cantidad_mw": 60
+                }
+            ]
         },
         "max_afect_dia": {
-            "cantidad_mw": 0,
-            "hora": "",
+            "cantidad_mw": 611,
+            "hora": "20:30",
             "desc": ""
         },
         "dia_anterior": {
-            "desc": "",
-            "horas": 0,
-            "hora_rest": ""
+            "desc": "Se afectó el servicio por déficit de capacidad de generación",
+            "horas": 18,
+            "hora_rest": "03:08"
         }
     }
 }

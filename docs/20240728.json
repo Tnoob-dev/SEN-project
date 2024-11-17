@@ -2,24 +2,24 @@
     "sen_info": {
         "main_info": {
             "_comentario": "Las fechas deben expresarse con guiones",
-            "fecha": "",
-            "dia": "",
-            "url": ""
+            "fecha": "28-07-2024",
+            "dia": "Domingo",
+            "url": "http://www.cubadebate.cu/noticias/2024/07/28/une-pronostica-97-mw-de-afectacion-por-deficit-de-generacion-en-el-pico-nocturno-de-este-domingo/"
         },
         "_comentario": "Toda esta informacion se expresa en MW",
         "estimacion": {
-            "horario": "",
-            "disponibilidad": 0,
-            "demanda_max": 0,
-            "deficit": 0,
+            "horario": "pico",
+            "disponibilidad": 2773,
+            "demanda_max": 2800,
+            "deficit": 27,
             "pronostico": {
-                "afectacion": 0
+                "afectacion": 97
             }
         },
         "info_horarios": {
             "ma\u00c3\u00b1ana": {
-                "disponibilidad": 0,
-                "demanda": 0,
+                "disponibilidad": 2466,
+                "demanda": 2240,
                 "totalidad": true
             },
             "mediodia": {
@@ -30,45 +30,65 @@
         },
         "termoelectricas": {
             "_comentario": "Esto quiere decir: Limitaciones en la generacion termica",
-            "lim_gen_term": 0,
+            "lim_gen_term": 493,
             "fuera": {
                 "averias": [
                     {
-                        "nombre": "Unidad",
-                        "CTE": ""
-                    }
-                ],
-                "mantenimiento": [
+                        "nombre": "Unidad 5",
+                        "CTE": "Mariel"
+                    },
                     {
-                        "nombre": "Unidad",
-                        "CTE": ""
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    },
+                    {
+                        "nombre": "Unidad 1",
+                        "CTE": "Santa Cruz"
                     }
                 ],
+                "mantenimiento": [],
                 "no_servicio": [
                     {
-                        "cantidad": 0,
-                        "razon": "",
-                        "mw_afectados": 0
+                        "cantidad": 50,
+                        "razon": "Deficit de combustible",
+                        "mw_afectados": 450
                     }
                 ]
             }
         },
         "pico": {
-            "estimacion": {
-                "desc": "",
-                "razon": "",
-                "cantidad_mw": 0
-            }
+            "estimacion": [
+                {
+                    "desc": "La entrada de motores de generacion distribuida",
+                    "razon": "En espera de mantenimiento",
+                    "cantidad_mw": 93
+                },
+                {
+                    "desc": "La entrada de motores en la central fuel de Mariel",
+                    "razon": "En espera",
+                    "cantidad_mw": 110
+                },
+                {
+                    "desc": "La entrada de la Patana de Mariel",
+                    "razon": "En espera",
+                    "cantidad_mw": 70
+                },
+                {
+                    "desc": "La entrada de la Unidad 1 de la CTE Santa Cruz",
+                    "razon": "En espera",
+                    "cantidad_mw": 60
+                }
+            ]
         },
         "max_afect_dia": {
-            "cantidad_mw": 0,
-            "hora": "",
-            "desc": ""
+            "cantidad_mw": 232,
+            "hora": "21:10",
+            "desc": "No coincidente con la hora pico"
         },
         "dia_anterior": {
-            "desc": "",
-            "horas": 0,
-            "hora_rest": ""
+            "desc": "Se afecto el servicio por deficit de capacidad de generacion",
+            "horas": 8,
+            "hora_rest": "00:02"
         }
     }
 }

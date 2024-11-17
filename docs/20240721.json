@@ -2,73 +2,102 @@
     "sen_info": {
         "main_info": {
             "_comentario": "Las fechas deben expresarse con guiones",
-            "fecha": "",
-            "dia": "",
-            "url": ""
+            "fecha": "21-07-2024",
+            "dia": "Domingo",
+            "url": "http://www.cubadebate.cu/noticias/2024/07/20/union-electrica-estima-afectacion-de-830-mw-en-horario-pico-este-20-de-julio/"
         },
         "_comentario": "Toda esta informacion se expresa en MW",
         "estimacion": {
-            "horario": "",
-            "disponibilidad": 0,
-            "demanda_max": 0,
-            "deficit": 0,
+            "horario": "pico",
+            "disponibilidad": 2753,
+            "demanda_max": 3150,
+            "deficit": 397,
             "pronostico": {
-                "afectacion": 0
+                "afectacion": 467
             }
         },
         "info_horarios": {
             "ma\u00c3\u00b1ana": {
-                "disponibilidad": 0,
-                "demanda": 0,
+                "disponibilidad": 2450,
+                "demanda": 2320,
                 "totalidad": true
             },
             "mediodia": {
                 "pronostico": {
-                    "afectacion": 0
+                    "afectacion": "se operara con bajos niveles de reserva"
                 }
             }
         },
         "termoelectricas": {
             "_comentario": "Esto quiere decir: Limitaciones en la generacion termica",
-            "lim_gen_term": 0,
+            "lim_gen_term": 464,
             "fuera": {
                 "averias": [
                     {
-                        "nombre": "Unidad",
-                        "CTE": ""
+                        "nombre": "Unidad 4",
+                        "CTE": "Energas Varadero"
+                    },
+                    {
+                        "nombre": "Unidad 3",
+                        "CTE": "Rente"
+                    },
+                    {
+                        "nombre": "Unidad 6",
+                        "CTE": "Rente"
+                    },
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
                     }
                 ],
                 "mantenimiento": [
                     {
-                        "nombre": "Unidad",
-                        "CTE": ""
+                        "nombre": "Unidad 1",
+                        "CTE": "Santa Cruz"
                     }
                 ],
                 "no_servicio": [
                     {
-                        "cantidad": 0,
-                        "razon": "",
-                        "mw_afectados": 0
+                        "cantidad": 35,
+                        "razon": "Deficit de combustible",
+                        "mw_afectados": 191
                     }
                 ]
             }
         },
         "pico": {
-            "estimacion": {
-                "desc": "",
-                "razon": "",
-                "cantidad_mw": 0
-            }
+            "estimacion": [
+                {
+                    "desc": "La entrada de motores de la Generación Distribuida",
+                    "razon": "Falta de combustible",
+                    "cantidad_mw": 100
+                },
+                {
+                    "desc": "La entrada de motores de la Generación Distribuida",
+                    "razon": "En espera de mantenimiento",
+                    "cantidad_mw": 68
+                },
+                {
+                    "desc": "La entrada de la Unidad 3 de la CTE Rente",
+                    "razon": "En espera",
+                    "cantidad_mw": 75
+                },
+                {
+                    "desc": "La entrada de la Patana de Santiago",
+                    "razon": "En espera",
+                    "cantidad_mw": 60
+                }
+            ]
         },
         "max_afect_dia": {
-            "cantidad_mw": 0,
-            "hora": "",
-            "desc": ""
+            "cantidad_mw": 929,
+            "hora": "21:00",
+            "desc": "Coincidente con la hora pico, mayor que lo planificado por salida imprevista de la unidad 8 de la CTE Mariel en el horario de la mañana"
         },
         "dia_anterior": {
-            "desc": "",
-            "horas": 0,
-            "hora_rest": ""
+            "desc": "Se afecto el servicio por defocit por capacidad de generacion en el SEN",
+            "horas": 24,
+            "hora_rest": "04:10"
         }
     }
 }

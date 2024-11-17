@@ -1,0 +1,10 @@
+Titulo: Situación del Sistema Eléctrico para el 26 de julio de 2024
+
+En el día de ayer se afectó el servicio por déficit de capacidad de generación desde las 09:48 de la mañana hasta las 01:14 horas de la madrugada de hoy.
+La máxima afectación en el día fue 486 MW a las 21:00 horas, coincidente con la hora pico.
+La disponibilidad del SEN a las 07:00 horas es de 2400 MW, la demanda 2300 MW, con todo el sistema con servicio, en el horario del mediodía no se estiman afectaciones al servicio por déficit de capacidad de generación.
+Se encuentran fuera por avería la unidad 2 de la CTE Felton. Se encuentra en mantenimiento la unidad 1 de la CTE Santa Cruz.
+Las limitaciones en la generación térmica son de 505 MW.
+Se encuentran fuera de servicio por combustible 53 centrales de generación distribuida, para un total de 318 MW afectados por este concepto.
+Para el pico se estima la entrada de motores de generación distribuida que están en espera de mantenimiento y se autoriza su uso con 112 MW, la entrada de 5 motores en la central fuel de Mariel con 85 MW y la entrada de la unidad 1 de la CTE Habana con 70 MW.
+Se estima para la hora pico una disponibilidad de 2667 MW y una demanda máxima de 3000 MW, para un déficit de 333 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 403 MW en este horario.

@@ -62,11 +62,13 @@
             }
         },
         "pico": {
-            "estimacion": {
-                "desc": "se estima la entrada de motores de generación distribuida",
-                "razon": "se encuentran fuera por combustible",
-                "cantidad_mw": 120
-            }
+            "estimacion": [
+                {
+                    "desc": "se estima la entrada de motores de generación distribuida",
+                    "razon": "se encuentran fuera por combustible",
+                    "cantidad_mw": 120
+                }
+            ]
         },
         "max_afect_dia": {
             "cantidad_mw": 616,
