@@ -1,12 +1,10 @@
 {
     "sen_info": {
         "main_info": {
-            "_comentario": "Las fechas deben expresarse con guiones",
             "fecha": "18-07-2024",
             "dia": "Jueves",
             "url": "http://www.cubadebate.cu/noticias/2024/07/18/union-electrica-pronostica-deficit-de-510-mw-para-el-horario-pico-nocturno/"
         },
-        "_comentario": "Toda esta informacion se expresa en MW",
         "estimacion": {
             "horario": "pico",
             "disponibilidad": 2560,
@@ -29,7 +27,6 @@
             }
         },
         "termoelectricas": {
-            "_comentario": "Esto quiere decir: Limitaciones en la generacion termica",
             "lim_gen_term": 396,
             "fuera": {
                 "averias": [

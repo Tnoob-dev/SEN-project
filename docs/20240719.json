@@ -1,12 +1,10 @@
 {
     "sen_info": {
         "main_info": {
-            "_comentario": "Las fechas deben expresarse con guiones",
             "fecha": "19-07-2024",
             "dia": "Viernes",
             "url": "http://www.cubadebate.cu/noticias/2024/07/19/la-union-electrica-estima-un-deficit-de-950-mw-en-horario-pico-de-este-19-de-julio/"
         },
-        "_comentario": "Toda esta informacion se expresa en MW",
         "estimacion": {
             "horario": "pico",
             "disponibilidad": 2300,
@@ -29,7 +27,6 @@
             }
         },
         "termoelectricas": {
-            "_comentario": "Esto quiere decir: Limitaciones en la generacion termica",
             "lim_gen_term": 410,
             "fuera": {
                 "averias": [

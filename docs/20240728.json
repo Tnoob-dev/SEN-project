@@ -1,12 +1,10 @@
 {
     "sen_info": {
         "main_info": {
-            "_comentario": "Las fechas deben expresarse con guiones",
             "fecha": "28-07-2024",
             "dia": "Domingo",
             "url": "http://www.cubadebate.cu/noticias/2024/07/28/une-pronostica-97-mw-de-afectacion-por-deficit-de-generacion-en-el-pico-nocturno-de-este-domingo/"
         },
-        "_comentario": "Toda esta informacion se expresa en MW",
         "estimacion": {
             "horario": "pico",
             "disponibilidad": 2773,
@@ -29,7 +27,6 @@
             }
         },
         "termoelectricas": {
-            "_comentario": "Esto quiere decir: Limitaciones en la generacion termica",
             "lim_gen_term": 493,
             "fuera": {
                 "averias": [

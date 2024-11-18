@@ -1,12 +1,10 @@
 {
     "sen_info": {
         "main_info": {
-            "_comentario": "Las fechas deben expresarse con guiones",
             "fecha": "20-07-2024",
             "dia": "Sabado",
             "url": "http://www.cubadebate.cu/noticias/2024/07/20/union-electrica-estima-afectacion-de-830-mw-en-horario-pico-este-20-de-julio/"
         },
-        "_comentario": "Toda esta informacion se expresa en MW",
         "estimacion": {
             "horario": "pico",
             "disponibilidad": 2590,
@@ -29,7 +27,6 @@
             }
         },
         "termoelectricas": {
-            "_comentario": "Esto quiere decir: Limitaciones en la generacion termica",
             "lim_gen_term": 397,
             "fuera": {
                 "averias": [

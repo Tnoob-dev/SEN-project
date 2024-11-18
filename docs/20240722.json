@@ -1,12 +1,10 @@
 {
     "sen_info": {
         "main_info": {
-            "_comentario": "Las fechas deben expresarse con guiones",
             "fecha": "22-07-2024",
             "dia": "Lunes",
             "url": "http://www.cubadebate.cu/noticias/2024/07/22/union-electrica-preve-afectacion-de-390-mw-para-horario-pico-de-este-lunes/"
         },
-        "_comentario": "Toda esta informacion se expresa en MW",
         "estimacion": {
             "horario": "pico",
             "disponibilidad": 2570,
@@ -29,7 +27,6 @@
             }
         },
         "termoelectricas": {
-            "_comentario": "Esto quiere decir: Limitaciones en la generacion termica",
             "lim_gen_term": 512,
             "fuera": {
                 "averias": [

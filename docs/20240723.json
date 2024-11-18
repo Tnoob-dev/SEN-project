@@ -1,12 +1,10 @@
 {
     "sen_info": {
         "main_info": {
-            "_comentario": "Las fechas deben expresarse con guiones",
             "fecha": "23-07-2024",
             "dia": "Martes",
             "url": "http://www.cubadebate.cu/noticias/2024/07/23/union-electrica-preve-deficit-de-582-mw-en-horario-pico-nocturno-de-este-martes/"
         },
-        "_comentario": "Toda esta informacion se expresa en MW",
         "estimacion": {
             "horario": "nocturno",
             "disponibilidad": 2588,
@@ -29,7 +27,6 @@
             }
         },
         "termoelectricas": {
-            "_comentario": "Esto quiere decir: Limitaciones en la generacion termica",
             "lim_gen_term": 460,
             "fuera": {
                 "averias": [

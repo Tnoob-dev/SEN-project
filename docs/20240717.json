@@ -1,12 +1,10 @@
 {
     "sen_info": {
         "main_info": {
-            "_comentario": "Las fechas deben expresarse con guiones",
             "fecha": "17-07-2024",
             "dia": "Miercoles",
             "url": "http://www.cubadebate.cu/noticias/2024/07/17/une-preve-afectacion-de-490-mw-durante-el-horario-pico-nocturno-de-este-miercoles/"
         },
-        "_comentario": "Toda esta informacion se expresa en MW",
         "estimacion": {
             "horario": "pico",
             "disponibilidad": 2580,
@@ -29,7 +27,6 @@
             }
         },
         "termoelectricas": {
-            "_comentario": "Esto quiere decir: Limitaciones en la generacion termica",
             "lim_gen_term": 496,
             "fuera": {
                 "averias": [

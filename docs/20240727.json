@@ -1,12 +1,10 @@
 {
     "sen_info": {
         "main_info": {
-            "_comentario": "Las fechas deben expresarse con guiones",
             "fecha": "27-07-2024",
             "dia": "Sabado",
             "url": "http://www.cubadebate.cu/noticias/2024/07/27/une-pronostica-afectacion-de-230-mw-durante-el-pico-nocturno-de-este-sabado/"
         },
-        "_comentario": "Toda esta informacion se expresa en MW",
         "estimacion": {
             "horario": "nocturno",
             "disponibilidad": 2640,
@@ -29,7 +27,6 @@
             }
         },
         "termoelectricas": {
-            "_comentario": "Esto quiere decir: Limitaciones en la generacion termica",
             "lim_gen_term": 448,
             "fuera": {
                 "averias": [

@@ -1,12 +1,10 @@
 {
     "sen_info": {
         "main_info": {
-            "_comentario": "Las fechas deben expresarse con guiones",
             "fecha": "15-07-2024",
             "dia": "Lunes",
             "url": "http://www.cubadebate.cu/noticias/2024/07/15/une-pronostica-afectacion-de-480-mw-durante-pico-nocturno-de-este-lunes/"
         },
-        "_comentario": "Toda esta informacion se expresa en MW",
         "estimacion": {
             "horario": "nocturno",
             "disponibilidad": 2690,
@@ -29,7 +27,6 @@
             }
         },
         "termoelectricas": {
-            "_comentario": "Esto quiere decir: Limitaciones en la generacion termica",
             "lim_gen_term": 431,
             "fuera": {
                 "averias": [
