@@ -1,7 +1,8 @@
 Titulo: UNE pronostica 97 MW de afectación por déficit de generación en el pico nocturno de este domingo
+URL: http://www.cubadebate.cu/noticias/2024/07/28/une-pronostica-97-mw-de-afectacion-por-deficit-de-generacion-en-el-pico-nocturno-de-este-domingo/
+
 
 En el día de ayer se afectó el servicio por déficit de capacidad de generación desde las 16:17 de la noche hasta las 00:02 horas de la madrugada de hoy.
-
 La máxima afectación en el día fue 232 MW a las 21:10 horas, no coincidente con la hora pico.
 La disponibilidad del Sistema Eléctrico Nacional a las 07:00 horas era de 2466 MW, la demanda 2240 MW, con todo el sistema con servicio, en el horario del mediodía no se estiman afectaciones al servicio por déficit de capacidad de generación.
 Se encuentran fuera por avería la unidad 5 de la CTE Mariel y la unidad 2 de la CTE Felton y la unidad 1 de la CTE Santa Cruz.

@@ -1,4 +1,6 @@
 Titulo: Situación del Sistema Eléctrico para el 26 de julio de 2024
+URL: https://www.minem.gob.cu/es/noticias/situacion-del-sen/situacion-del-sistema-electrico-para-el-26-de-julio-de-2024
+
 
 En el día de ayer se afectó el servicio por déficit de capacidad de generación desde las 09:48 de la mañana hasta las 01:14 horas de la madrugada de hoy.
 La máxima afectación en el día fue 486 MW a las 21:00 horas, coincidente con la hora pico.

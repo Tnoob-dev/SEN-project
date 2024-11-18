@@ -1,7 +1,8 @@
 Titulo: UNE prevé afectación de 490 MW durante el horario pico nocturno de este miércoles
+URL: http://www.cubadebate.cu/noticias/2024/07/17/une-preve-afectacion-de-490-mw-durante-el-horario-pico-nocturno-de-este-miercoles/
+
 
 La disponibilidad del SEN a las 07:00 horas es de 2400 MW, la demanda 2320 MW, con todo el SEN con servicio, en el horario del mediodía se pronostican una máxima afectacion de 200 MW.
-
 Se encuentran fuera por avería las unidades 3 y 6 de la CTE Rente y la unidad 2 de la CTE Felton. Se encuentra en mantenimiento la unidad 1 de la CTE Santa Cruz.
 Las limitaciones en la generación térmica son de 496 MW.
 Se encuentran fuera de servicio por combustible 51 centrales de generación distribuida, para un total de 355 MW afectados por este concepto.
