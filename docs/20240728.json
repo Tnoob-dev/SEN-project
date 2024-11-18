@@ -46,15 +46,17 @@
                         "CTE": "Santa Cruz"
                     }
                 ],
-                "mantenimiento": [],
-                "no_servicio": [
+                "mantenimiento": []
+            }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
                     {
                         "cantidad": 50,
                         "razon": "Deficit de combustible",
                         "mw_afectados": 450
                     }
                 ]
-            }
         },
         "pico": {
             "estimacion": [

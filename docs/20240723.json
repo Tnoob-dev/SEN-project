@@ -51,15 +51,17 @@
                         "nombre": "Unidad 1",
                         "CTE": "Santa Cruz"
                     }
-                ],
-                "no_servicio": [
+                ]
+            }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
                     {
                         "cantidad": 45,
                         "razon": "Deficit de combustible",
                         "mw_afectados": 315
                     }
                 ]
-            }
         },
         "pico": {
             "estimacion": [

@@ -43,15 +43,17 @@
                         "nombre": "Unidad",
                         "CTE": ""
                     }
-                ],
-                "no_servicio": [
-                    {
-                        "cantidad": 0,
-                        "razon": "",
-                        "mw_afectados": 0
-                    }
                 ]
             }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
+                {
+                    "cantidad": 0,
+                    "razon": "",
+                    "mw_afectados": 0
+                }
+            ]
         },
         "pico": {
             "estimacion": [
