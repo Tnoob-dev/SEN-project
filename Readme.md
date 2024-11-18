@@ -32,7 +32,9 @@
             - Por Mantenimiento:
                 - Nombre de la Unidad
                 - Nombre de la CTE
-            - Sin servicio:
+
+    - Centrales de Generacion Distribuida:
+        - Sin servicio:
                 - Cantidad de Centrales de Generacion Distribuida
                 - Razon por la que se encuentra sin servicio
                 - Cantidad de MW afectados
@@ -75,7 +77,7 @@
             }
         },
         "info_horarios": {
-            "ma\u00c3\u00b1ana": {
+            "mañana": {
                 "disponibilidad": 0,
                 "demanda": 0,
                 "totalidad": true
@@ -96,27 +98,31 @@
                         "CTE": ""
                     }
                 ],
-                "mantenimiento": [
+                "mantenimiento":[
                     {
                         "nombre": "Unidad",
                         "CTE": ""
                     }
-                ],
-                "no_servicio": [
-                    {
-                        "cantidad": 0,
-                        "razon": "",
-                        "mw_afectados": 0
-                    }
                 ]
             }
         },
+        "centr_gen_distr": {
+            "no_servicio": [
+                {
+                    "cantidad": 0,
+                    "razon": "",
+                    "mw_afectados": 0
+                }
+            ]
+        },
         "pico": {
-            "estimacion": {
-                "desc": "",
-                "razon": "",
-                "cantidad_mw": 0
-            }
+            "estimacion": [
+                {
+                    "desc": "",
+                    "razon": "",
+                    "cantidad_mw": 0
+                }
+            ]
         },
         "max_afect_dia": {
             "cantidad_mw": 0,
