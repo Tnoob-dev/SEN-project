@@ -2,7 +2,7 @@
 
 ## Junto a un .py para que cree los JSONs con la plantilla dentro y la cantidad que sean, para automatizar un poco el trabajo de crear cada uno de ellos
 
-## Los JSONs se encuentran en /docs/
+[Los JSONs se encuentran en docs](./docs/)
 
 ### Datos a extraer:
     - Informacion principal:
