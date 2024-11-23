@@ -1,87 +1,8 @@
-#  JSON files for extracting information regarding the National Electric System (in spanish SEN)
-
-[Json files can be found at jsons folder](./jsons/)
-[txt files can be found at txts folder](./txts/)
-[Json files about plants info can be found at plants folder](./plants/)
-
-### Data to extract:
-    - Zones with problems
-    - Date
-    - URL
-    - Prediction:
-        - Availability
-        - Max Demand
-        - Impact
-        - Deficit
-        - Backup
-    - Morning Info:
-        - Time
-        - Availability
-        - Demand
-        - Deficit
-    - Plants:
-        - ID
-        - Broken
-        - Maintenance
-        - Limitation
-    - Distributed:
-        - Motors with problems
-        - Total Impact
-        - Combustible problems
-        - Ships with problems
-        - Motors Impact
-
-### SEN.json:
-
-```json
-{
-    "zones_with_problems": ["west" , "middle", "east"], 
-    "date": "",
-    "url": "", 
-    "prediction": {
-        "availability": "",  
-        "demand_max": "",
-        "impact": "",
-        "deficit": "",
-        "backup": ""
-    },
-    "morning_info": {
-        "time": "", 
-        "availability": "", 
-        "demand": "", 
-        "deficit": "" 
-    }, 
-    "plants": [
-        {
-            "id":"",
-            "broken": [],
-            "maintenance": [],
-            "limitation": ""
-    } 
-],
-    "distributed": {
-        "motors_with_problems": "",
-        "total_impact": "",
-        "combustible_problem": "",
-        "snips_with_problems": "",
-        "motors_impact": ""
-    },
-    "impact": {
-        "total_hours": "",
-        "max": "",
-        "max_hour": ""
-    }
-}
-```
-
-### plants.json:
-
-```json
 {
     "MG": {
-        "name": "CTE Máximo Gómez",
+        "name": "CTE M\u00c3\u00a1ximo G\u00c3\u00b3mez",
         "location": "Artemisa,Mariel",
-        "national_fuel":true,
+        "national_fuel": true,
         "units": {
             "5": {
                 "power": 90
@@ -100,7 +21,7 @@
     "OP": {
         "name": "CTE Otto Parellada",
         "location": "La Habana,La Habana Vieja",
-        "national_fuel":false,
+        "national_fuel": false,
         "units": {
             "7": {
                 "power": 60
@@ -110,7 +31,7 @@
     "EG": {
         "name": "CTE Ernesto Guevara",
         "location": "Mayabeque,Santa Cruz del Norte",
-        "national_fuel":true,
+        "national_fuel": true,
         "units": {
             "1": {
                 "power": 100
@@ -126,7 +47,7 @@
     "AG": {
         "name": "CTE Antonio Guiteras",
         "location": "Matanzas,Matanzas",
-        "national_fuel":true,
+        "national_fuel": true,
         "units": {
             "1": {
                 "power": 317
@@ -134,9 +55,9 @@
         }
     },
     "CM": {
-        "name": "CTE Carlos Manuel de Céspedes",
+        "name": "CTE Carlos Manuel de C\u00c3\u00a9spedes",
         "location": "Cienfuegos,Cienfuegos",
-        "national_fuel":true,
+        "national_fuel": true,
         "units": {
             "3": {
                 "power": 158
@@ -148,8 +69,8 @@
     },
     "DO": {
         "name": "CTE Diez de Octubre",
-        "location": " Camagüey,Nuevitas",
-        "national_fuel":false,
+        "location": " Camag\u00c3\u00bcey,Nuevitas",
+        "national_fuel": false,
         "units": {
             "4": {
                 "power": 125
@@ -163,9 +84,9 @@
         }
     },
     "LR": {
-        "name": "CTE Lidio Ramón Pérez",
-        "location": "Holguín ,Felton",
-        "national_fuel":false,
+        "name": "CTE Lidio Ram\u00c3\u00b3n P\u00c3\u00a9rez",
+        "location": "Holgu\u00c3\u00adn ,Felton",
+        "national_fuel": false,
         "units": {
             "1": {
                 "power": 250
@@ -177,8 +98,8 @@
     },
     "AM": {
         "name": "CTE Antonio Maceo",
-        "location": "Santiago de Cuba,Renté Peninsula",
-        "national_fuel":true,
+        "location": "Santiago de Cuba,Rent\u00c3\u00a9 Peninsula",
+        "national_fuel": true,
         "units": {
             "4": {
                 "power": 95
@@ -196,8 +117,8 @@
     },
     "EV": {
         "name": "Energas Varadero",
-        "location": "Matanzas,Cárdenas",
-        "national_fuel":true,
+        "location": "Matanzas,C\u00c3\u00a1rdenas",
+        "national_fuel": true,
         "units": {
             "1": {
                 "power": 160
@@ -207,7 +128,7 @@
     "EB": {
         "name": "Energas Boca de Jaruco",
         "location": "Mayabeque,Boca de Jaruco,",
-        "national_fuel":true,
+        "national_fuel": true,
         "units": {
             "1": {
                 "power": 320
@@ -215,4 +136,3 @@
         }
     }
 }
-```

@@ -1,0 +1,85 @@
+{
+    "MG": {
+        "name": "CTE M\u00c3\u00a1ximo G\u00c3\u00b3mez",
+        "location": "Artemisa,Mariel",
+        "national_fuel": true,
+        "units": {}
+    },
+    "OP": {
+        "name": "CTE Otto Parellada",
+        "location": "La Habana,La Habana Vieja",
+        "national_fuel": false,
+        "units": {}
+    },
+    "EG": {
+        "name": "CTE Ernesto Guevara",
+        "location": "Mayabeque,Santa Cruz del Norte",
+        "national_fuel": true,
+        "units": {
+            "1": {
+                "power": 100
+            }
+        }
+    },
+    "AG": {
+        "name": "CTE Antonio Guiteras",
+        "location": "Matanzas,Matanzas",
+        "national_fuel": true,
+        "units": {}
+    },
+    "CM": {
+        "name": "CTE Carlos Manuel de C\u00c3\u00a9spedes",
+        "location": "Cienfuegos,Cienfuegos",
+        "national_fuel": true,
+        "units": {}
+    },
+    "DO": {
+        "name": "CTE Diez de Octubre",
+        "location": " Camag\u00c3\u00bcey,Nuevitas",
+        "national_fuel": false,
+        "units": {}
+    },
+    "LR": {
+        "name": "CTE Lidio Ram\u00c3\u00b3n P\u00c3\u00a9rez",
+        "location": "Holgu\u00c3\u00adn ,Felton",
+        "national_fuel": false,
+        "units": {
+            "2": {
+                "power": 230
+            }
+        }
+    },
+    "AM": {
+        "name": "CTE Antonio Maceo",
+        "location": "Santiago de Cuba,Rent\u00c3\u00a9 Peninsula",
+        "national_fuel": true,
+        "units": {
+            "3": {
+                "power": 100
+            },
+            "6": {
+                "power": 95
+            }
+        }
+    },
+    "EV": {
+        "name": "Energas Varadero",
+        "location": "Matanzas,C\u00c3\u00a1rdenas",
+        "national_fuel": true,
+        "units": {
+            "1": {
+                "power": 160
+            }
+        }
+    },
+    "EB": {
+        "name": "Energas Boca de Jaruco",
+        "location": "Mayabeque,Boca de Jaruco,",
+        "national_fuel": true,
+        "units": {
+            "1": {
+                "power": 320
+            }
+        }
+    }
+}
