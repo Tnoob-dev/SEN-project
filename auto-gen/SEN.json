@@ -19,10 +19,10 @@
         {
             "id":"",
             "broken": [],
-            "maintenance": [],
-            "limitation": ""
-    } 
-],
+            "maintenance": []
+        } 
+    ],
+    "limitation": "",
     "distributed": {
         "motors_with_problems": "",
         "total_impact": "",

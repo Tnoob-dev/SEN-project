@@ -18,8 +18,8 @@ def gen(init_day: int, last_day: int, month: int, year: int):
         with open(f"../jsons/{year}{month if month > 10 else str(f"0{month}")}{i if i > 10 else str(f"0{i}")}.json", "w") as file:
             file.write(json.dumps(content, indent=4))
         
-        with open(f"../docs/{year}{month if month > 10 else str(f"0{month}")}{i if i > 10 else str(f"0{i}")}.txt", "w") as file:
+        with open(f"../txts/{year}{month if month > 10 else str(f"0{month}")}{i if i > 10 else str(f"0{i}")}.txt", "w") as file:
             file.write("")
 
 # use example
-# gen(15, 28, 7, 2024)
+gen(20, 28, 7, 2024)
