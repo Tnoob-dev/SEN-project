@@ -1,88 +1,48 @@
 {
-    "sen_info": {
-        "main_info": {
-            "fecha": "17-07-2024",
-            "dia": "Miercoles",
-            "url": "http://www.cubadebate.cu/noticias/2024/07/17/une-preve-afectacion-de-490-mw-durante-el-horario-pico-nocturno-de-este-miercoles/"
+    "zones_with_problems": ["west" , "middle", "east"], 
+    "date": "20240717",
+    "url": "http://www.cubadebate.cu/noticias/2024/07/17/une-preve-afectacion-de-490-mw-durante-el-horario-pico-nocturno-de-este-miercoles/", 
+    "prediction": {
+        "availability": 2580,  
+        "demand_max": 3000,
+        "impact": 490,
+        "deficit": 420,
+        "backup": null
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": 2400, 
+        "demand": 2320, 
+        "deficit": "" 
+    }, 
+    "plants": [
+        {
+            "id": "AM",
+            "broken": [3, 6],
+            "maintenance": []
         },
-        "estimacion": {
-            "horario": "pico",
-            "disponibilidad": 2580,
-            "demanda_max": 3000,
-            "deficit": 420,
-            "pronostico": {
-                "afectacion": 490
-            }
+        {
+            "id": "LR",
+            "broken": [2],
+            "maintenance": []
         },
-        "info_horarios": {
-            "ma\u00c3\u00b1ana": {
-                "disponibilidad": 2400,
-                "demanda": 2320,
-                "totalidad": true
-            },
-            "mediodia": {
-                "pronostico": {
-                    "afectacion": 200
-                }
-            }
-        },
-        "termoelectricas": {
-            "lim_gen_term": 496,
-            "fuera": {
-                "averias": [
-                    {
-                        "nombre": "Unidad 3",
-                        "CTE": "Rente"
-                    },
-                    {
-                        "nombre": "Unidad 6",
-                        "CTE": "Rente"
-                    },
-                    {
-                        "nombre": "Unidad 2",
-                        "CTE": "Felton"
-                    }
-                ],
-                "mantenimiento": [
-                    {
-                        "nombre": "Unidad 1",
-                        "CTE": "Santa Cruz"
-                    }
-                ]
-            }
-        },
-        "centr_gen_distr": {
-            "no_servicio": [
-                    {
-                        "cantidad": 51,
-                        "razon": "Deficit de combustible",
-                        "mw_afectados": 355
-                    }
-                ]
-        },
-        "pico": {
-            "estimacion": [
-                {
-                    "desc": "La entrada de motores de la Generacion Distribuida",
-                    "razon": "Se encuentran fuera por combusitble",
-                    "cantidad_mw": 100
-                },
-                {
-                    "desc": "La entrada de motores de la Generacion Distribuida",
-                    "razon": "Estan en espera de mantenimiento",
-                    "cantidad_mw": 80
-                }
-            ]
-        },
-        "max_afect_dia": {
-            "cantidad_mw": 395,
-            "hora": "22:30",
-            "desc": "No coincidente con la hora pico"
-        },
-        "dia_anterior": {
-            "desc": "Se afecto el servicio por deficit de capacidad de generacion en el SEN",
-            "horas": 10,
-            "hora_rest": "02:27"
+        {
+            "id": "EG",
+            "broken": [],
+            "maintenance": [1]
         }
+    ],
+    "limitation": 496,
+    "distributed": {
+        "motors_with_problems": 51,
+        "total_impact": 355,
+        "combustible_problem": true,
+        "ships_with_problems": null,
+        "motors_impact": ""
+    },
+    "impact": {
+        "total_hours": 10,
+        "max": 395,
+        "max_hour": "2230"
     }
 }

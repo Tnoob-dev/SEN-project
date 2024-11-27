@@ -1,97 +1,48 @@
 {
-    "sen_info": {
-        "main_info": {
-            "fecha": "18-07-2024",
-            "dia": "Jueves",
-            "url": "http://www.cubadebate.cu/noticias/2024/07/18/union-electrica-pronostica-deficit-de-510-mw-para-el-horario-pico-nocturno/"
+    "zones_with_problems": ["west" , "middle", "east"], 
+    "date": "20240718",
+    "url": "http://www.cubadebate.cu/noticias/2024/07/18/union-electrica-pronostica-deficit-de-510-mw-para-el-horario-pico-nocturno/", 
+    "prediction": {
+        "availability": 2560,  
+        "demand_max": 3000,
+        "impact": "",
+        "deficit": 440,
+        "backup": ""
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": 2330, 
+        "demand": 2360, 
+        "deficit": 30 
+    }, 
+    "plants": [
+        {
+            "id": "AM",
+            "broken": [3, 6],
+            "maintenance": []
         },
-        "estimacion": {
-            "horario": "pico",
-            "disponibilidad": 2560,
-            "demanda_max": 3000,
-            "deficit": 440,
-            "pronostico": {
-                "afectacion": 510
-            }
+        {
+            "id": "LR",
+            "broken": [2],
+            "maintenance": []
         },
-        "info_horarios": {
-            "ma\u00c3\u00b1ana": {
-                "disponibilidad": 2330,
-                "demanda": 2360,
-                "totalidad": false
-            },
-            "mediodia": {
-                "pronostico": {
-                    "afectacion": 300
-                }
-            }
-        },
-        "termoelectricas": {
-            "lim_gen_term": 396,
-            "fuera": {
-                "averias": [
-                    {
-                        "nombre": "Unidad 2",
-                        "CTE": "Santa Cruz"
-                    },
-                    {
-                        "nombre": "Unidad 3",
-                        "CTE": "Rente"
-                    },
-                    {
-                        "nombre": "Unidad 6",
-                        "CTE": "Rente"
-                    },
-                    {
-                        "nombre": "Unidad 2",
-                        "CTE": "Felton"
-                    }
-                ],
-                "mantenimiento": [
-                    {
-                        "nombre": "Unidad 1",
-                        "CTE": "Santa Cruz"
-                    }
-                ]
-            }
-        },
-        "centr_gen_distr": {
-            "no_servicio": [
-                    {
-                        "cantidad": 53,
-                        "razon": "Deficit de combustible",
-                        "mw_afectados": 316
-                    }
-                ]
-        },
-        "pico": {
-            "estimacion": [
-                    {
-                    "desc": "La entrada de motores de la Generacion Distribuida",
-                    "razon": "Deficit de combustible",
-                    "cantidad_mw": 100
-                },
-                {
-                    "desc": "La entrada de la Unidad 2 de la CTE Santa Cruz",
-                    "razon": "Proceso de arranque",
-                    "cantidad_mw": 60
-                },
-                {
-                    "desc": "La entrada de la Unidad 3 de la CTE Rente",
-                    "razon": "Proceso de arranque",
-                    "cantidad_mw": 70
-                }
-            ]
-        },
-        "max_afect_dia": {
-            "cantidad_mw": 625,
-            "hora": "21:30",
-            "desc": "Coincidente con la hora pico, superior a lo planificado por bajada por emergencia de la unidad 1 de Felton hasta 140 MW y baja recuperación de combustible en la generación distribuida."
-        },
-        "dia_anterior": {
-            "desc": "Se afecto el servicio por deficit de capacidad de generacion en el SEN",
-            "horas": 17,
-            "hora_rest": "03:47"
+        {
+            "id": "EG",
+            "broken": [2],
+            "maintenance": [1]
         }
+    ],
+    "limitation": 396,
+    "distributed": {
+        "motors_with_problems": 53,
+        "total_impact": 316,
+        "combustible_problem": true,
+        "ships_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": 17,
+        "max": 625,
+        "max_hour": "2130"
     }
 }

@@ -1,7 +1,7 @@
 import json
 import os
 
-paths = ["../jsons/", "../txts/", "../plants/"]
+paths = ["../jsons/", "../txts/"]
 
 for path in paths:
     if not os.path.exists(path):
@@ -17,9 +17,6 @@ def gen(init_day: int, last_day: int, month: int, year: int):
     for i in range(init_day, last_day + 1):    
         with open(f"../jsons/{year}{month if month > 10 else str(f"0{month}")}{i if i > 10 else str(f"0{i}")}.json", "w") as file:
             file.write(json.dumps(content, indent=4))
-        
-        with open(f"../plants/plants-{year}{month if month > 10 else str(f"0{month}")}{i if i > 10 else str(f"0{i}")}.json", "w") as file:
-            file.write(json.dumps(plants_content, indent=4))
         
         with open(f"../docs/{year}{month if month > 10 else str(f"0{month}")}{i if i > 10 else str(f"0{i}")}.txt", "w") as file:
             file.write("")

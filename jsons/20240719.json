@@ -1,87 +1,38 @@
 {
-    "sen_info": {
-        "main_info": {
-            "fecha": "19-07-2024",
-            "dia": "Viernes",
-            "url": "http://www.cubadebate.cu/noticias/2024/07/19/la-union-electrica-estima-un-deficit-de-950-mw-en-horario-pico-de-este-19-de-julio/"
-        },
-        "estimacion": {
-            "horario": "pico",
-            "disponibilidad": 2300,
-            "demanda_max": 3250,
-            "deficit": 950,
-            "pronostico": {
-                "afectacion": 1020
-            }
-        },
-        "info_horarios": {
-            "ma\u00c3\u00b1ana": {
-                "disponibilidad": 2300,
-                "demanda": 2440,
-                "totalidad": false
-            },
-            "mediodia": {
-                "pronostico": {
-                    "afectacion": 550
-                }
-            }
-        },
-        "termoelectricas": {
-            "lim_gen_term": 410,
-            "fuera": {
-                "averias": [
-                    {
-                        "nombre": "Unidad 4",
-                        "CTE": "Energas Varadero"
-                    },
-                    {
-                        "nombre": "Unidad 5",
-                        "CTE": "Diez de Octubre"
-                    },
-                    {
-                        "nombre": "Unidad 6",
-                        "CTE": "Rente"
-                    },
-                    {
-                        "nombre": "Unidad 2",
-                        "CTE": "Felton"
-                    }
-                ],
-                "mantenimiento": [
-                    {
-                        "nombre": "Unidad 1",
-                        "CTE": "Santa Cruz"
-                    }
-                ]
-            }
-        },
-        "centr_gen_distr": {
-            "no_servicio": [
-                    {
-                        "cantidad": 58,
-                        "razon": "Deficit de combustible",
-                        "mw_afectados": 448
-                    }
-                ]
-        },
-        "pico": {
-            "estimacion": [
-                {
-                    "desc": "Para el horario pico nocturno",
-                    "razon": "Deficit de combustible",
-                    "cantidad_mw": 950
-                }
-            ]
-        },
-        "max_afect_dia": {
-            "cantidad_mw": 1041,
-            "hora": "21:00",
-            "desc": "Coincidente con la hora pico, superior a lo planificado por salida imprevista de la unidad 5 de la CTE Diez de Octubre, demanda superior a lo planificado y baja recuperación de combustible en la generación distribuida."
-        },
-        "dia_anterior": {
-            "desc": "Se afectó el servicio por déficit de capacidad de generación en el SEN",
-            "horas": 26,
-            "hora_rest": null
-        }
+    "zones_with_problems": ["west" , "middle", "east"], 
+    "date": "20240719",
+    "url": "http://www.cubadebate.cu/noticias/2024/07/19/la-union-electrica-estima-un-deficit-de-950-mw-en-horario-pico-de-este-19-de-julio/", 
+    "prediction": {
+        "availability": "",  
+        "demand_max": "",
+        "impact": "",
+        "deficit": "",
+        "backup": ""
+    },
+    "morning_info": {
+        "time": "", 
+        "availability": "", 
+        "demand": "", 
+        "deficit": "" 
+    }, 
+    "plants": [
+        {
+            "id":"",
+            "broken": [],
+            "maintenance": [],
+            "limitation": ""
+    } 
+],
+    "distributed": {
+        "motors_with_problems": "",
+        "total_impact": "",
+        "combustible_problem": "",
+        "ships_with_problems": "",
+        "motors_impact": ""
+    },
+    "impact": {
+        "total_hours": "",
+        "max": "",
+        "max_hour": ""
     }
 }

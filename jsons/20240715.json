@@ -17,17 +17,27 @@
     }, 
     "plants": [
         {
-            "id":"",
+            "id": "AM",
+            "broken": [3, 6],
+            "maintenance": []
+        },
+        {
+            "id": "LR",
+            "broken": [2],
+            "maintenance": []
+        },
+        {
+            "id": "EG",
             "broken": [],
-            "maintenance": [],
-            "limitation": 431
-    }
-],
+            "maintenance": [1]
+        }
+    ],
+    "limitation": 431,
     "distributed": {
         "motors_with_problems": 47,
         "total_impact": 309,
         "combustible_problem": true,
-        "snips_with_problems": null,
+        "ships_with_problems": null,
         "motors_impact": null
     },
     "impact": {
