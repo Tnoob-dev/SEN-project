@@ -1,0 +1,48 @@
+{
+    "zones_with_problems": ["west", "middle", "east"],
+    "date": "20240728",
+    "url": "http://www.cubadebate.cu/noticias/2024/07/28/une-pronostica-97-mw-de-afectacion-por-deficit-de-generacion-en-el-pico-nocturno-de-este-domingo/",
+    "prediction": {
+        "availability": 2773,
+        "demand_max": 2800,
+        "impact": 97,
+        "deficit": 27,
+        "backup": null
+    },
+    "morning_info": {
+        "time": "0700",
+        "availability": 2466,
+        "demand": 2240,
+        "deficit": null
+    },
+    "plants": [
+        {
+            "id":"AM",
+            "broken": [5],
+            "maintenance": []
+        },
+        {
+            "id":"LR",
+            "broken": [2],
+            "maintenance": []
+        },
+        {
+            "id": "EG",
+            "broken": [1],
+            "maintenance": []
+        }
+    ],
+    "limitation": 493,
+    "distributed": {
+        "motors_with_problems": 50,
+        "total_impact": 450,
+        "combustible_problem": true,
+        "ships_with_problems": 2,
+        "motors_impact": 240
+    },
+    "impact": {
+        "total_hours": 8,
+        "max": 232,
+        "max_hour": "2110"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "zones_with_problems": ["west", "middle", "east"],
+    "date": "20240723",
+    "url": "http://www.cubadebate.cu/noticias/2024/07/23/union-electrica-preve-deficit-de-582-mw-en-horario-pico-nocturno-de-este-martes/",
+    "prediction": {
+        "availability": 2588,
+        "demand_max": 3100,
+        "impact": 582,
+        "deficit": 512,
+        "backup": null
+    },
+    "morning_info": {
+        "time": "0700",
+        "availability": 2380,
+        "demand": 2420,
+        "deficit": 91
+    },
+    "plants": [
+        {
+            "id":"AM",
+            "broken": [6],
+            "maintenance": []
+        },
+        {
+            "id":"LR",
+            "broken": [2],
+            "maintenance": []
+        },
+        {
+            "id":"EG",
+            "broken": [2],
+            "maintenance": [1]
+        }
+    ],
+    "limitation": 460,
+    "distributed": {
+        "motors_with_problems": 45,
+        "total_impact": 315,
+        "combustible_problem": true,
+        "ships_with_problems": null,
+        "motors_impact": 60
+    },
+    "impact": {
+        "total_hours": 22,
+        "max": "708",
+        "max_hour": "2100"
+    }
+}

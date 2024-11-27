@@ -5,9 +5,9 @@
     "prediction": {
         "availability": 2580,  
         "demand_max": 3050,
-        "impact": "",
+        "impact": 540,
         "deficit": 470,
-        "backup": ""
+        "backup": null
     },
     "morning_info": {
         "time": "0700", 
@@ -37,7 +37,7 @@
         "motors_with_problems": 38,
         "total_impact": 216,
         "combustible_problem": true,
-        "ships_with_problems": "",
+        "ships_with_problems": null,
         "motors_impact": 80
     },
     "impact": {

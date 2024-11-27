@@ -1,19 +1,19 @@
 {
     "zones_with_problems": ["west" , "middle", "east"], 
-    "date": "20240715",
-    "url": "http://www.cubadebate.cu/noticias/2024/07/15/une-pronostica-afectacion-de-480-mw-durante-pico-nocturno-de-este-lunes/", 
+    "date": "20240718",
+    "url": "http://www.cubadebate.cu/noticias/2024/07/18/union-electrica-pronostica-deficit-de-510-mw-para-el-horario-pico-nocturno/", 
     "prediction": {
-        "availability": 2690,  
-        "demand_max": 3100,
-        "impact": null,
-        "deficit": 410,
+        "availability": 2560,  
+        "demand_max": 3000,
+        "impact": 510,
+        "deficit": 440,
         "backup": null
     },
     "morning_info": {
         "time": "0700", 
-        "availability": 2570, 
-        "demand": 2350, 
-        "deficit": null
+        "availability": 2330, 
+        "demand": 2360, 
+        "deficit": 30 
     }, 
     "plants": [
         {
@@ -28,21 +28,21 @@
         },
         {
             "id": "EG",
-            "broken": [],
+            "broken": [2],
             "maintenance": [1]
         }
     ],
-    "limitation": 431,
+    "limitation": 396,
     "distributed": {
-        "motors_with_problems": 47,
-        "total_impact": 309,
+        "motors_with_problems": 53,
+        "total_impact": 316,
         "combustible_problem": true,
         "ships_with_problems": null,
         "motors_impact": null
     },
     "impact": {
-        "total_hours": 24,
-        "max": 616,
-        "max_hour": "0158"
+        "total_hours": 17,
+        "max": 625,
+        "max_hour": "2130"
     }
 }

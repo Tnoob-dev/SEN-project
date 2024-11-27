@@ -1,0 +1,58 @@
+{
+    "zones_with_problems": ["west" , "middle", "east"], 
+    "date": "20240719",
+    "url": "http://www.cubadebate.cu/noticias/2024/07/19/la-union-electrica-estima-un-deficit-de-950-mw-en-horario-pico-de-este-19-de-julio/", 
+    "prediction": {
+        "availability": 2300,  
+        "demand_max": 3250,
+        "impact": 1020,
+        "deficit": 950,
+        "backup": null
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": 2300, 
+        "demand": 2440, 
+        "deficit": 153
+    }, 
+    "plants": [
+        {
+            "id":"EV",
+            "broken": [4],
+            "maintenance": []
+        },
+        {
+            "id":"DO",
+            "broken": [5],
+            "maintenance": []
+        },
+        {
+            "id":"AM",
+            "broken": [6],
+            "maintenance": []
+        },
+        {
+            "id":"LR",
+            "broken": [2],
+            "maintenance": []
+        },
+        {
+            "id":"EG",
+            "broken": [],
+            "maintenance": [1]
+        }
+    ],
+    "limitation": 410,
+    "distributed": {
+        "motors_with_problems": 58,
+        "total_impact": 448,
+        "combustible_problem": true,
+        "ships_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": 24,
+        "max": 1041,
+        "max_hour": "2100"
+    }
+}

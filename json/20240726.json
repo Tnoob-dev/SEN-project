@@ -1,0 +1,43 @@
+{
+    "zones_with_problems": ["west", "middle", "east"],
+    "date": "20240726",
+    "url": "https://www.minem.gob.cu/es/noticias/situacion-del-sen/situacion-del-sistema-electrico-para-el-26-de-julio-de-2024",
+    "prediction": {
+        "availability": 2667,
+        "demand_max": 3000,
+        "impact": 403,
+        "deficit": 333,
+        "backup": null
+    },
+    "morning_info": {
+        "time": "0700",
+        "availability": 2400,
+        "demand": 2300,
+        "deficit": null
+    },
+    "plants": [
+        {
+            "id":"LR",
+            "broken": [2],
+            "maintenance": []
+        },
+        {
+            "id":"EG",
+            "broken": [],
+            "maintenance": [1]
+        }
+    ],
+    "limitation": 505,
+    "distributed": {
+        "motors_with_problems": 53,
+        "total_impact": 318,
+        "combustible_problem": true,
+        "ships_with_problems": null,
+        "motors_impact": 155
+    },
+    "impact": {
+        "total_hours": 17,
+        "max": 486,
+        "max_hour": "2100"
+    }
+}

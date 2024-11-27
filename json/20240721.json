@@ -1,0 +1,53 @@
+{
+    "zones_with_problems": ["west", "middle", "east"],
+    "date": "20240721",
+    "url": "http://www.cubadebate.cu/noticias/2024/07/21/union-electrica-pronostica-467-mw-de-afectacion-en-pico-nocturno/",
+    "prediction": {
+        "availability": 2753,
+        "demand_max": 3150,
+        "impact": 467,
+        "deficit": 397,
+        "backup": null
+    },
+    "morning_info": {
+        "time": "0700",
+        "availability": 2450,
+        "demand": 2320,
+        "deficit": null
+    },
+    "plants": [
+        {
+            "id":"EV",
+            "broken": [4],
+            "maintenance": []
+        },
+        {
+            "id":"AM",
+            "broken": [3, 6],
+            "maintenance": []
+        },
+        {
+            "id":"LR",
+            "broken": [2],
+            "maintenance": []
+        },
+        {
+            "id":"EG",
+            "broken": [],
+            "maintenance": [1]
+        }
+    ],
+    "limitation": 464,
+    "distributed": {
+        "motors_with_problems": 35,
+        "total_impact": 191,
+        "combustible_problem": true,
+        "ships_with_problems": null,
+        "motors_impact": 75
+    },
+    "impact": {
+        "total_hours": 24,
+        "max": 929,
+        "max_hour": "2100"
+    }
+}

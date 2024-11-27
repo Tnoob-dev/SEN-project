@@ -1,0 +1,53 @@
+{
+    "zones_with_problems": ["west", "middle", "east"],
+    "date": "20240722",
+    "url": "http://www.cubadebate.cu/noticias/2024/07/22/union-electrica-preve-afectacion-de-390-mw-para-horario-pico-de-este-lunes/",
+    "prediction": {
+        "availability": 2570,
+        "demand_max": 2900,
+        "impact": 390,
+        "deficit": 320,
+        "backup": null
+    },
+    "morning_info": {
+        "time": "0700",
+        "availability": 2390,
+        "demand": 2230,
+        "deficit": null
+    },
+    "plants": [
+        {
+            "id":"EV",
+            "broken": [4],
+            "maintenance": []
+        },
+        {
+            "id":"AM",
+            "broken": [6],
+            "maintenance": []
+        },
+        {
+            "id":"LR",
+            "broken": [2],
+            "maintenance": []
+        },
+        {
+            "id":"EG",
+            "broken": [],
+            "maintenance": [1]
+        }
+    ],
+    "limitation": 512,
+    "distributed": {
+        "motors_with_problems": 37,
+        "total_impact": 207,
+        "combustible_problem": true,
+        "ships_with_problems": null,
+        "motors_impact": 50
+    },
+    "impact": {
+        "total_hours": 12,
+        "max": 381,
+        "max_hour": "2100"
+    }
+}

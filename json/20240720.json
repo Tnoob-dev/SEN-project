@@ -1,0 +1,58 @@
+{
+    "zones_with_problems": ["west", "middle", "east"],
+    "date": "20240720",
+    "url": "http://www.cubadebate.cu/noticias/2024/07/20/union-electrica-estima-afectacion-de-830-mw-en-horario-pico-este-20-de-julio/",
+    "prediction": {
+        "availability": 2590,
+        "demand_max": 3350,
+        "impact": 830,
+        "deficit": 760,
+        "backup": null
+    },
+    "morning_info": {
+        "time": "0700",
+        "availability": 2140,
+        "demand": 2620,
+        "deficit": 517
+    },
+    "plants": [
+        {
+            "id":"EV",
+            "broken": [4],
+            "maintenance": []
+        },
+        {
+            "id":"DO",
+            "broken": [5],
+            "maintenance": []
+        },
+        {
+            "id":"AM",
+            "broken": [3, 6],
+            "maintenance": []
+        },
+        {
+            "id":"LR",
+            "broken": [2],
+            "maintenance": []
+        },
+        {
+            "id":"EG",
+            "broken": [],
+            "maintenance": [1]
+        }
+    ],
+    "limitation": 397,
+    "distributed": {
+        "motors_with_problems": 57,
+        "total_impact": 468,
+        "combustible_problem": true,
+        "ships_with_problems": null,
+        "motors_impact": 320
+    },
+    "impact": {
+        "total_hours": 24,
+        "max": 1065,
+        "max_hour": "2150"
+    }
+}

@@ -1,10 +1,9 @@
 #  JSON files for extracting information regarding the National Electric System (in spanish SEN)
 
-[Json files can be found at jsons folder](./jsons/)
+[Json files can be found at jsons folder](./json/)
 <br>
-[txt files can be found at txts folder](./txts/)
-<br>
-[Json files about plants info can be found at plants folder](./plants/)
+[TXT files can be found at txts folder](./txt/)
+
 
 ### Data to extract:
     - Zones with problems

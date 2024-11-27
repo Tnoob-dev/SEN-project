@@ -1,0 +1,48 @@
+{
+    "zones_with_problems": ["west", "middle", "east"],
+    "date": "20240724",
+    "url": "http://www.cubadebate.cu/noticias/2024/07/24/une-preve-afectacion-de-400-mw-en-horario-pico-este-miercoles/",
+    "prediction": {
+        "availability": 2720,
+        "demand_max": 3050,
+        "impact": 400,
+        "deficit": 330,
+        "backup": null
+    },
+    "morning_info": {
+        "time": "0700",
+        "availability": 2520,
+        "demand": 2370,
+        "deficit": null
+    },
+    "plants": [
+        {
+            "id":"AM",
+            "broken": [3],
+            "maintenance": []
+        },
+        {
+            "id":"LR",
+            "broken": [2],
+            "maintenance": []
+        },
+        {
+            "id":"EG",
+            "broken": [],
+            "maintenance": [1]
+        }
+    ],
+    "limitation": 535,
+    "distributed": {
+        "motors_with_problems": 46,
+        "total_impact": 326,
+        "combustible_problem": true,
+        "ships_with_problems": null,
+        "motors_impact": 50
+    },
+    "impact": {
+        "total_hours": 24,
+        "max": 422,
+        "max_hour": "2140"
+    }
+}
